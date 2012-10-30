@@ -1,0 +1,5 @@
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Hangman\Hangman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Hangman\Hangman\obj\x86\Debug\Hangman.exe
+C:\Users\Tsvetomir\Documents\Visual Studio 2010\Projects\Hangman\Hangman\obj\x86\Debug\Hangman.pdb
